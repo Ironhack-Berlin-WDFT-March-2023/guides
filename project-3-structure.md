@@ -13,7 +13,7 @@ $ npx ironlauncher@latest projector-server --json
 $ npx create-react-app projector-client
 ```
 
-### This should result in the same structure that we have [in this example](https://github.com/Ironhack-Berlin-WDFT-January-2023/w8d1)
+### This should result in the same structure that we have [in this example](https://github.com/Ironhack-Berlin-WDFT-March-2023/w8d1)
 
 ### Then we can connect both repos to github and make the first commit
 
