@@ -66,7 +66,7 @@ Create a .env-file to configure your API_URL:
 
 - Add a file named `_redirects` in your public folder with this content:
 ```
-/index.html   200
+/* /index.html   200
 ```
 
 - Follow the instructions in the student portal: `React | Deployment on Netlify`  
